@@ -1,7 +1,7 @@
 # HTML / CSS Toggle Switch Button 구현
 
 ## 프로젝트 소개
-on/off기능 등에 많이 쓰이는 Toggle Switch button을 Check Box 디자인을 통한 Toggle Button 구현한다.
+on/off기능 등에 많이 쓰이는 Toggle Switch button을 Check Box 디자인을 통해 구현한다.
 
 ## 사용 언어
 - HTML
