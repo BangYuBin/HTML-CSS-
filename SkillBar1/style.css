@@ -17,3 +17,75 @@ h2{
 p{
     font-weight: bold;
 }
+.skill{
+    width: 100%;
+    height: 20px;
+    border-radius: 5px;
+    background-color: lightgray;
+}
+.HTML{
+    width: 90%;
+    height: 100%;
+    background-color: #ff7f00;
+    border-radius: 5px;
+    text-align: right;
+    animation: HTML 1s ;
+}
+@-webkit-keyframes HTML{
+    0%{
+        width: 10%;
+    }
+    100%{
+        width: 90%;
+    }
+}
+.CSS{
+    width: 80%;
+    height: 100%;
+    background-color: #0000ff;
+    border-radius: 5px;
+    text-align: right;
+    animation: CSS 1s ;
+}
+@-webkit-keyframes CSS{
+    0%{
+        width: 10%;
+    }
+    100%{
+        width: 80%;
+    }
+}
+.JS{
+    width: 70%;
+    height: 100%;
+    background-color: #ffd700;
+    border-radius: 5px;
+    text-align: right;
+    animation: JS 1s ;
+    color : black;
+}
+@-webkit-keyframes JS{
+    0%{
+        width: 10%;
+    }
+    100%{
+        width: 70%;
+    }
+}
+.React{
+    width: 30%;
+    height: 100%;
+    background-color: #50bcdf;
+    border-radius: 5px;
+    text-align: right;
+    animation: React 1s ;
+    color : black;
+}
+@-webkit-keyframes React{
+    0%{
+        width: 10%;
+    }
+    100%{
+        width: 30%;
+    }
+}
