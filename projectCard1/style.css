@@ -30,7 +30,7 @@ body{
   height: 100%;
   position: absolute;
   backface-visibility: hidden;
-  transition: 1s;
+  transition: transform 1s;
   background-color : #2e3053;
 }
 .container .card .front{
